@@ -19,7 +19,7 @@ namespace SOAP_PRODUCTOS.Services
             string sqlProducto =
                 @"INSERT INTO PRODUCTOS_I
                 (
-                    IDPRODUCTO, 
+                    ID_PRODUCTO, 
                     NOMBRE, 
                     CATEGORIA, 
                     FECHA_REGISTRO
