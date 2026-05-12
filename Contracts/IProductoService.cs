@@ -1,6 +1,12 @@
-﻿namespace SOAP_PRODUCTOS.Contracts
+﻿using CoreWCF;
+using SOAP_PRODUCTOS.Models;    
+
+namespace SOAP_PRODUCTOS.Contracts
 {
-    public class IProductoService
+    [ServiceContract]
+    public interface IProductoService
     {
+        [OperationContract]
+        string RegistrarProducto(Producto producto);
     }
-}
+}   
