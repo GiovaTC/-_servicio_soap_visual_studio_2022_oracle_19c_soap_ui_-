@@ -1,7 +1,11 @@
 # -_servicio_soap_visual_studio_2022_oracle_19c_soap_ui_- :.
 Servicio SOAP en Visual Studio 2022 + Oracle 19c + SOAP UI:
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/f696fb66-bec2-49ef-a99d-a4fe06ea12a9" />  
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/f696fb66-bec2-49ef-a99d-a4fe06ea12a9" />    
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/8aed62f9-0b49-46de-9337-0a8b84e6c766" />    
+
+<img width="2553" height="1075" alt="image" src="https://github.com/user-attachments/assets/326fa60b-001b-4dab-8f0e-7edff32d4a30" />    
 
 ```
 Tecnologías Utilizadas
