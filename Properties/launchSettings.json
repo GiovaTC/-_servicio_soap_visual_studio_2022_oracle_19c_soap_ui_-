@@ -1,19 +1,9 @@
 ﻿{
   "$schema": "http://json.schemastore.org/launchsettings.json",
 
-  "iisSettings": {
-    "windowsAuthentication": false,
-    "anonymousAuthentication": true,
-
-    "iisExpress": {
-      "applicationUrl": "http://localhost:5000",
-      "sslPort": 5001
-    }
-  },
-
   "profiles": {
 
-    "SOAP_PRODUCTOS_HTTP": {
+    "SOAP_PRODUCTOS": {
 
       "commandName": "Project",
 
@@ -24,36 +14,6 @@
       "launchUrl": "ProductoService.svc",
 
       "applicationUrl": "http://localhost:5000",
-
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
-    },
-
-    "SOAP_PRODUCTOS_HTTPS": {
-
-      "commandName": "Project",
-
-      "dotnetRunMessages": true,
-
-      "launchBrowser": true,
-
-      "launchUrl": "ProductoService.svc",
-
-      "applicationUrl": "https://localhost:5001;http://localhost:5000",
-
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
-    },
-
-    "IIS Express": {
-
-      "commandName": "IISExpress",
-
-      "launchBrowser": true,
-
-      "launchUrl": "ProductoService.svc",
 
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
