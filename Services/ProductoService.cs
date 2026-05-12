@@ -22,7 +22,7 @@ namespace SOAP_PRODUCTOS.Services
                     IDPRODUCTO, 
                     NOMBRE, 
                     CATEGORIA, 
-                    FECHAREGISTRO
+                    FECHA_REGISTRO
                 ) 
                 VALUES 
                 (
